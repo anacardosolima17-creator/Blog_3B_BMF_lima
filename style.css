@@ -4,7 +4,7 @@
      --cor-fundo: #d3b5d3;
      --cor-texto: #85199b;
      --cor-contraste: #b899ff;
-     --cor-botao: #DBCCFF;
+     --cor-botao: #c3b2e9;
 }
 
 body {
@@ -40,7 +40,7 @@ article {
      text-align: center;
      align-items: center;
      justify-content: center;
-     background-color: #b899ff;
+     background-color: #DBCCFF;
 }
 
 img {
