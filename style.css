@@ -1,7 +1,7 @@
 :root {
      --cor-primaria: #23104F;
      --cor-segundaria: #270082;
-     --cor-fundo: #be78be;
+     --cor-fundo: #ca9cca;
      --cor-texto: #85199b;
      --cor-contraste: #b899ff;
      --cor-botao: #c3b2e9;
@@ -40,8 +40,7 @@ article {
      text-align: center;
      align-items: center;
      justify-content: center;
-     background-color: #ab8dbd;
-}
+     background-color: #be78be;
 
 img {
   width: 80px;
