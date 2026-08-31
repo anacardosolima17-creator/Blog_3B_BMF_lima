@@ -31,6 +31,8 @@ function prepararReacoes() {
 
         contadorBotaoUM.textContent = UM;
         contadorBotaoDOIS.textContent = DOIS;
+
+        
     })
 
 
